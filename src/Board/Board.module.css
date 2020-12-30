@@ -1,0 +1,20 @@
+.boardWrapper {
+  /* justify-content: center;
+  text-align: center;
+  align-items: center; */
+}
+
+.statusBoard {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.boardRow:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.boardRow {
+  display: flex;
+}
