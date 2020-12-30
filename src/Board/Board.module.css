@@ -1,12 +1,10 @@
 .boardWrapper {
-  /* justify-content: center;
-  text-align: center;
-  align-items: center; */
 }
 
 .statusBoard {
   margin-bottom: 10px;
   font-size: 30px;
+  text-align: center;
 }
 
 .boardRow:after {
@@ -17,4 +15,5 @@
 
 .boardRow {
   display: flex;
+  justify-content: center;
 }
