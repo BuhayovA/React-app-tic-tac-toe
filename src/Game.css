@@ -9,9 +9,9 @@ ul {
 }
 
 .game {
-  /* flex-direction: row; */
+  flex-direction: row;
 }
 
 .game-info {
-  /* margin-left: 20px; */
+  margin-left: 20px;
 }
